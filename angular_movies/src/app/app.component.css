@@ -1,0 +1,22 @@
+.principal {
+    border-radius: 15px;
+    background-image: url(palom.jpg);
+}
+
+#footer, #principal {
+    text-align: center;
+    font-size: 25px;
+}
+
+#info {
+    text-align: center;
+    font-size: 16px;
+    background-color: #f06d4c;
+}
+
+#header {
+    text-align: center;
+    font-size: 25px;
+    background-color:#d2753e;
+    color: aliceblue;
+}
